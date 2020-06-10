@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #333;
+}
+@font-face {
+  font-family: 'Lexend Tera';
+  src : url('./fonts/LexendTera-Regular.ttf')
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.mainpage {
+  display:flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+}
+
+.card {
+  background-color: #555;
+  width:100%;
+}
+
+.material-icons {
+  color: black;
+  padding-top: 1.5em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+.material-icons:hover {
+  cursor: pointer;
+}
+.title{
+  color: #ddd;
+  font-weight: bolder;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+.details {
+  color: #ddd;
+}
+.nav-wrapper {
+background-color: #950740;
+padding-bottom: 20px;}
+
+.forms {
+  background-color: #333;
+  color:#ddd
+}
+
+.input-field{
+  border: #ddd;
+}
+
+.with-gap {
+  padding-left: 10px;
+}
+.add{
+  background-color: #555;
+}
+.links:hover {
+  font-size: 17px;
+  transition : all 0.5s;
+}
+.logo {
+  color: azure;
+  font-size: 30px;
+  font-family: 'Lexend Tera';
+}
+.search-box{
+  size: 50%;
+  margin-top: 1em;
+  color: #ddd;
+  padding-top: 20px;
+}

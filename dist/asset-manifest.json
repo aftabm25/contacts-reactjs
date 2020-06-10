@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45e9dbaf.chunk.css",
+    "main.js": "/static/js/main.35858138.chunk.js",
+    "main.js.map": "/static/js/main.35858138.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12abdfbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12abdfbc.js.map",
+    "static/js/2.e076bf4d.chunk.js": "/static/js/2.e076bf4d.chunk.js",
+    "static/js/2.e076bf4d.chunk.js.map": "/static/js/2.e076bf4d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.487c2543af40fea54de33c6550a7f4c1.js": "/precache-manifest.487c2543af40fea54de33c6550a7f4c1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.45e9dbaf.chunk.css.map": "/static/css/main.45e9dbaf.chunk.css.map",
+    "static/js/2.e076bf4d.chunk.js.LICENSE.txt": "/static/js/2.e076bf4d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/LexendTera-Regular.b6ae49fe.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12abdfbc.js",
+    "static/js/2.e076bf4d.chunk.js",
+    "static/css/main.45e9dbaf.chunk.css",
+    "static/js/main.35858138.chunk.js"
+  ]
+}
