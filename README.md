@@ -1,14 +1,23 @@
 
 ### About the application :
 -> This application is a React web app that uses Redux to store state and firebase for authentication and database. I have used firebase since it is free, and comfortably bundles with React and Redux.
+
 -> It is a simple contact storing web app that lets you add a new contact, delete an existing contact, and even edit an existing contact.
+
 -> It has a search bar on the top where you can search for a specific contact. (It will search for substrings in the First name, Last Name, Email and Phone.)
+
 -> The Navigation bar displays links based on whether you are logged in or not. The Create Contact link lets you create a new contact and the sign out link lets you sign out of the application.
+
 -> The Main page displays all the contact information, with a search bar on top. The contacts are displayed in a card format which makes them easier to read. At any point in the application, if you want to go back to the Main Page, just click on the '.ContactList' on the Navigation Bar.
+
 -> Every Contact card has the details pertaining to the contact and also buttons to delete and edit the contact.
+
 -> The delete button will completely erase your contact from the firebase database.
+
 -> The edit button takes you to an edit form where the existing information is already loaded in. You can just edit the information you like and press edit. The contact will update in real time.
+
 -> We can add a SignUp component so that users can signUp for the app and can thus share contacts with each other.
+
 -> The app is made with a dark theme so that it is comfortable to the eyes.
 
 ### Organization and Folder Structure -
@@ -52,10 +61,15 @@ You can check out the application at : https://contacts-9ae48.firebaseapp.com or
 To run the application locally :
 
 1. Make sure you have npm installed.
+
 2. Clone this repository on your local system and store it in a folder. cd into this folder from your terminal for the remaining steps.
+
 3. Install react, redux, and react-redux from npm in the correct folder. (npm install react redux react-redux)
+
 4. Install redux thunk (npm install redux-thunk)
+
 5. Install firebase , react redux firebase, redux-firestore (npm install firebase react-redux-firebase redux-firestore)
+
 6. To run the project write npm start in your terminal. (npm start)
 
 
